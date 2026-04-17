@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+build/
+out/
+[Dd]ebug/
+[Rr]elease/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+project.assets.json
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Video files (too large for GitHub)
+*.mp4
+*.avi
+*.mov
